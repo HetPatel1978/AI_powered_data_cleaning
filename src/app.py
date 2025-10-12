@@ -702,4 +702,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("Made with ❤️ by Het | AI-Powered Data Cleaning | Built with Streamlit")
+st.markdown("Made with by Het | AI-Powered Data Cleaning | Built with Streamlit")
